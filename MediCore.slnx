@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MediCore/MediCore.vcxproj" Id="dc033eae-f1fe-4358-861c-047952269a2f" />
+</Solution>
